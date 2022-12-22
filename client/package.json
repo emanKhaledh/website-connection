@@ -9,7 +9,7 @@
     "@trendmicro/react-sidenav": "^0.4.5",
     "bootstrap": "^4.3.1",
     "firebase": "^6.2.2",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "multi-select-react": "^0.1.8",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
